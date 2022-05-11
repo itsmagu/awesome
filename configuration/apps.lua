@@ -19,7 +19,7 @@ return {
     editor = 'code', -- gui text editor
     social = 'discord',
     game = rofi_command,
-    files = 'nautilus',
+    files = 'ranger',
     music = rofi_command 
   },
   -- List of apps to start once on start-up
